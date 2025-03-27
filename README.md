@@ -1,16 +1,23 @@
-# sigma-go
+# Sigma Go - Chess AI Project
 
 ## Project Overview
-This is a machine - learning learning project aimed at building a Chess AI step - by - step from basic to advanced through practical implementation.
+A machine learning project focused on building a Chess AI from basic to advanced levels through practical implementation.
 
 ## Participants
-- [@Jessica-OY](https://github.com/Jessica-OY)
-- [@di0de13](https://github.com/di0de13)
+- [Jessica OY](https://github.com/Jessica-OY) - Basic strategies implementation
+- [di0de13](https://github.com/di0de13) - Board logic and UI development
 
 ## Current Progress
-- Board logic and UI completed by @di0de13
-- Basic strategies like minimax and alphabeta implemented by @Jessica-OY
+- ✔️ Chess board logic and user interface completed
+- ✔️ Basic AI strategies implemented:
+  - Minimax algorithm
+  - Alpha-beta pruning
 
-## Todo List
-- Learn to implement fine - tuning with chess game records, perhaps using SFT.
-- Learn to implement MCTS and self - play reinforcement learning.
+## Roadmap
+### Short-term Goals
+- Implement fine-tuning using chess game records (potential SFT approach)
+- Add Monte Carlo Tree Search (MCTS) implementation
+
+### Long-term Goals
+- Develop self-play reinforcement learning capabilities
+- Explore advanced neural network architectures
